@@ -1,9 +1,9 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://astro-paper.pages.dev/",
+  website: "https://espressogamingnews.netlify.app/",
   author: "Nikos Paschalis",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  desc: "A minimal, responsive and SEO-friendly gaming blog.",
   title: "Espresso Gaming News ☕",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
