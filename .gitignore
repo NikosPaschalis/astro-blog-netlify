@@ -5,6 +5,11 @@ dist/
 # dependencies
 node_modules/
 
+# extras
+/main.js
+/render.js
+/reload.js
+
 # logs
 npm-debug.log*
 yarn-debug.log*
