@@ -9,7 +9,7 @@
         - news
 	  - updates
 	  - blog
-      description: Exciting News for Gamers: More Gaming Updates Coming Your Way!
+      description: Exciting News for Gamers More Gaming Updates Coming Your Way!
 ---
 
       Dear readers and gaming enthusiasts,
