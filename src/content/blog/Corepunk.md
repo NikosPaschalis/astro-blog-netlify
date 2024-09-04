@@ -1,6 +1,6 @@
 ---
     author: Espresso
-    pubDatetime: 2024-08-29T17:32:00.000+03:00
+    pubDatetime: 2024-09-04T17:32:00.000+03:00
     title: Corepunk Sales Closed After Demand Explodes—New Roadmap Revealed!
     postSlug: Corepunk-Sales-Closed-After-Demand-Explodes
     featured: false
