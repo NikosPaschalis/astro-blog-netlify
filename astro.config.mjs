@@ -23,7 +23,7 @@ export default defineConfig({
         "./src/components/Header.astro",
         "./src/layouts/Layout.astro",
         "./src/layouts/PostDetails.astro",
-        "./src/layouts/Main.astro"
+        "./src/layouts/Main.astro",
         /**
          * Generates:
          * import { YouTube } from 'astro-embed';
