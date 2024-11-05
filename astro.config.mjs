@@ -14,6 +14,7 @@ export default defineConfig({
   site: SITE.website,
   integrations: [
     AutoImport({
+       components: ['YouTube'],
       imports: [
         /**
          * Generates:
