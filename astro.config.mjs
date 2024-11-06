@@ -8,13 +8,14 @@ import { SITE } from "./src/config";
 
 import AutoImport from "astro-auto-import";
 import mdx from "@astrojs/mdx";
-
+import embeds from "astro-embed/integration";
 // https://astro.build/config
 export default defineConfig({
   site: SITE.website,
   integrations: [
+    embeds(),
     AutoImport({
-       components: ['YouTube'],
+      components: ["YouTube"],
       imports: [
         /**
          * Generates:
